@@ -16,12 +16,15 @@ This repo contains sample codes to describe how to add comments in every program
 11. [Show Output HTML] (http://codepen.io/tapaswenipathak/pen/KpsnG)
 12. [Show Output Java] (http://ideone.com/XBZ5na)
 13. [Show Output JavaScript] (http://ideone.com/nWgq4H)
-14. [Show Output Perl] (http://ideone.com/ANfeYH)
-15. [Show Output PHP] (http://ideone.com/zqDz4s)
-16. [Show Output Python] (http://ideone.com/hPUX68)
-17. [Show Output Python3] (http://ideone.com/aquD6h)
-18. [Show Output Ruby] (#)
-19. [Show Output Shell] (#)
+14. [Show Output MySQL] (#)
+15. [Show Output Perl] (http://ideone.com/ANfeYH)
+16. [Show Output PHP] (http://ideone.com/zqDz4s)
+17. [Show Output Python] (http://ideone.com/hPUX68)
+18. [Show Output Python3] (http://ideone.com/aquD6h)
+19. [Show Output R] (http://ideone.com/NzCGNi)
+20. [Show Output Ruby] (#)
+21. [Show Output Rust] (http://ideone.com/S0NPrI)
+22. [Show Output Shell] (#)
 
 
 You should comment your code. It shows :heart: for the reader.
