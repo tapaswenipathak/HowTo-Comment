@@ -1,6 +1,0 @@
-delimiter @@;
-CREATE PROCEDURE Docomments()
-BEGIN
-	SELECT ("You should comment your code.\n");
-END;
-
