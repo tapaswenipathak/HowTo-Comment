@@ -24,6 +24,7 @@ This repo contains sample codes to describe how to add comments in every program
 19. [Show Output Ruby] (#)
 20. [Show Output Rust] (http://ideone.com/S0NPrI)
 21. [Show Output Shell] (#)
+22. [Show Output Smalltalk] (#)
 
 
 You should comment your code. It shows :heart: for the reader.
