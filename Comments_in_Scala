@@ -1,0 +1,13 @@
+object Comments_in_Scala
+{
+   /* Welcome to Scala. 
+     This is a multi line comment. 
+     Similar to Java.
+    */
+	def main(args: Array[String]) 
+	{
+		println("You should comment your code.") 
+		//This is a single line comment.			
+	
+   	}
+}
